@@ -9,6 +9,9 @@ This project includes Android fullstack which involves our own Custom Android OS
 
 - A free and open-source aftermarket distribution, based on the Android Open-Source Platform(AOSP), aiming to give you the cleanest possible alternative and a perfectly stable, smooth and beautiful experience right out of the box.
 
+| <img src="./images/about.png"> | <img src="./images/theme2.png"> | <img src="./images/theme3.png"> |
+| ---- | ---- | ---- |
+
 ### Problem Statements
 - In some devices like Realme and Xiaomi, while setting up these devices for the first time, the software asks the user for a consent in order to provide personalised ads based on the user content. This implies that the user will not have any idea about the information that will be sent to the OEM.
 - In most of android devices, OEMs provide extra services or frameworks that run during the background of userspace, which drains a lot amount ouf the battery thus decreasing life expectancy of the android device.
