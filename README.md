@@ -11,6 +11,7 @@ This project includes Android fullstack including our own Custom Android OS and 
     - We work on the ROM to make it extremely stable; we believe in the user not facing any issues regarding their device, flash and forget.
     - It is a distribution that aims to be really minimalistic and beautiful right out of the box. We merge patches from master and other sources to give you the best performance out of your device.
     - The ROM doesn't ship with any sort of bloat, and many hardening patches are in the process of being merged to give you the most secure and bloatfree experience possible.
+- Source Code is publicly available to sync and compile at our [GitHub Organization](https://github.com/ProjectRobust).
 
 # Robust Battery App
 [Source Code](https://github.com/ProjectRobust/RobustBatteryService) <br/>
