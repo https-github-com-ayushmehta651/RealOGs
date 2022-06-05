@@ -1,5 +1,6 @@
-Project Robust [WebSite](https://bit.ly/robustoswebsite)
+Project Robust
 =======================
+[WebSite](https://bit.ly/robustoswebsite)
 
 Co-authors of the project <a href="https://github.com/debz-g/">Debayan Ghosh Dastider</a>, <a href="https://github.com/madhurmehta007/">Madhur Mehta</a>, <a href="https://github.com/danascape/">Saalim Quadri</a>.
 <br/><br/>
