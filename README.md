@@ -1,6 +1,8 @@
 Project Robust
 =======================
 
+Co-authors of the project <a href="https://github.com/debz-g/">Debayan Ghosh Dastider</a>, <a href="https://github.com/madhurmehta007/">Madhur Mehta</a>, <a href="https://github.com/danascape/">Saalim Quadri</a>.
+<br/><br/>
 This project includes Android fullstack which involves our own Custom Android OS and an Application. The Custom ROM build system is synced with [Jenkins](http://badwolf.network:8081/).
 
 # RobustOS
