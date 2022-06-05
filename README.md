@@ -1,7 +1,7 @@
 Project Robust
 =======================
 
-This project includes Android fullstack including our own Custom Android OS and Applications whose build system is synced with [Jenkins](http://badwolf.network:8081/).
+This project includes Android fullstack which involves our own Custom Android OS and an Application. The Custom ROM build system is synced with [Jenkins](http://badwolf.network:8081/).
 
 # RobustOS
 
