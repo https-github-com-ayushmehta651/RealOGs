@@ -14,7 +14,10 @@ This project includes Android fullstack including our own Custom Android OS and 
 - Source Code is publicly available to sync and compile at our [GitHub Organization](https://github.com/ProjectRobust).
 
 # Robust Battery App
-[Source Code](https://github.com/ProjectRobust/RobustBatteryService) <br/>
+[![Android CI](https://github.com/ProjectRobust/RobustBatteryService/actions/workflows/android.yml/badge.svg)](https://github.com/ProjectRobust/RobustBatteryService/actions/workflows/android.yml)
+<br/><br/>
+[Source Code](https://github.com/ProjectRobust/RobustBatteryService)
+<br/>
 
 - This is our inline app that we ship with the OS itself.
 - Our app Robust Battery shows information such as the condition of the device, device temperature, voltage and current while charging the device.
