@@ -28,8 +28,9 @@ This project includes Android fullstack which involves our own Custom Android OS
     - Second, you might think that our app might take in permissions, we do not. We plan to use Android’s own local database to store the usage patterns and not track it.
 
 ## RobustOS CodeBase
-** The repositories below are listed according to decreasing priorities. <br/>
-** The testing device used is Redmi Note 8(Codename :- ginkgo).
+**The repositories below are listed according to decreasing priorities.**
+<br/>
+**The testing device used for bringup of Custom ROM is Redmi Note 8(Codename :- ginkgo).**
 
 [ci_scripts](https://github.com/ProjectRobust/ci_scripts) :- This repository contains the shell script that is used by the CI to build RobustOS. The script is made specifically for ginkgo device. The script downloads and checks out the source code, the script also has an option to give your build updates on telegram. The script asks for necessary build flavors that are needed according to the user.
 
